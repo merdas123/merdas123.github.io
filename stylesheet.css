@@ -1,0 +1,100 @@
+* {
+    font-family: "Times New Roman", Times, serif;
+	color: #000000;
+	text-align: center;
+	
+
+}
+
+body{
+	width: 960px;
+	margin: 0 auto;
+}
+
+nav {
+	background-color: #7fdb9a;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+li{
+	display: inline;
+	padding: 5px;
+	
+}
+
+section{
+	overflow: auto;
+	height: 100%;
+}
+
+main{
+	background-color: #ff5252;
+	padding: 10px;
+	margin: 10px;
+}
+
+article{
+	background-color: #ff5252;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+
+.Books{
+	background-color: #ff5252;
+	padding: 10px;
+	margin: 10px;
+	width: 420px;
+	float: left;
+}
+
+.Books2{
+	background-color: #9acedb;
+
+	float: left;
+}
+
+.mart{
+	background-color: #ff5252;
+	padding: 10px;
+	margin: 10px;
+	width: 960px;
+	float: left;
+}
+
+.firstSection{
+	background-color: #ff5252;
+	overflow: auto;
+	height: 100%;
+}
+
+.Firstlist{
+	display: list-item;
+	text-align: left;
+}
+
+dd{
+	font-size:  14px;
+	text-align: left
+}
+
+dt{
+	font-weight: bold;
+	text-align: left
+}
+
+
+html{
+	background-color: #9acedb;
+}
+
+
+footer{
+	background-color: #ff5252;
+	padding: 5px;
+	margin: 5px;
+	font-style: italic;
+}
